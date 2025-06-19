@@ -87,7 +87,7 @@ A well-crafted booking interface reduces friction in the user journey, improves 
 - **Secondary Text:** Circular, Book (400), 14px
 ---
 
-### ✅ Roles & Responsibilities
+### ✅ Project Roles and Responsibilities
 
 | Role               | Responsibilities                                                   |
 |--------------------|---------------------------------------------------------------------|
